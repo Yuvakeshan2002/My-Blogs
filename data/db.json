@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Virat kohli- Uplift and Downfall",
+      "body": "Virat Kohli is an Indian cricketer who is widely regarded as one of the best batsmen in the world. He was born on November 5, 1988, in Delhi, India. Kohli made his international debut in 2008 and quickly gained attention for his exceptional batting skills and aggressive style of play.",
+      "author": "Yuva",
+      "id": 1
+    },
+    {
+      "title": "fff",
+      "body": "ggg",
+      "author": "Virat",
+      "id": 2
+    },
+    {
+      "title": "gg",
+      "body": "gg",
+      "author": "Virat",
+      "id": 3
+    }
+  ]
+}
